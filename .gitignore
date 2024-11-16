@@ -1,0 +1,16 @@
+data/
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+.DS_Store
+.*.swp
+logs/
+labml
+transformers
+labml_nn
+labml_helpers
+einops
+*.egg-info
+build
+dist
+*.tar.gz
